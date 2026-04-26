@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2l1m6utvq24h"
-path="res://.godot/imported/charactertemp_1.png-6150eca1ab66aff3da6477fccc015ebc.ctex"
+uid="uid://b6sgwx0lt11xf"
+path="res://.godot/imported/right_edge.png-f13b92879c6060d39968bae4eaf96477.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/tiles/charactertemp_1.png"
-dest_files=["res://.godot/imported/charactertemp_1.png-6150eca1ab66aff3da6477fccc015ebc.ctex"]
+source_file="res://sprites/tiles/right_edge.png"
+dest_files=["res://.godot/imported/right_edge.png-f13b92879c6060d39968bae4eaf96477.ctex"]
 
 [params]
 
