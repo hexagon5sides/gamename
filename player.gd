@@ -18,3 +18,8 @@ func _physics_process(_delta: float) -> void:
 		velocity = Vector2.ZERO
 
 	move_and_slide()
+	
+	if Input.is_action_just_pressed("Left"):
+		$Sprite2D.flip_h = true
+	elif Input.is_action_just_pressed("Right"):
+		$Sprite2D.flip_h = false
